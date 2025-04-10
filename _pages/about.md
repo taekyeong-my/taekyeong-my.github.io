@@ -28,8 +28,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello there! I am a postdoctoral research fellow in the interdisciplinary research department Migration, Integration, Transnationalization at the Berlin Social Science Center (WZB). Before that, I was a PhD researcher at the European University Institute. I hold Master’s degrees from the London School of Economics (LSE) and Freie Universität Berlin.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I am part of the collaborative project “Unequal Trajectories: Spatial Dynamics in Refugees’ Multidimensional Integration” (<a href='https://unetra.wzb.eu'>UneTra</a>) at the WZB, conducted jointly with the Leibniz Institute for Educational Trajectories (LifBi) and the Institute for Employment Research (IAB). The project investigates how residential environments and mobility shape the integration of refugees in Germany since 2013.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my PhD dissertation, I examined the impact of digitalised forms of social relations on social cohesion. Specifically, I investigated the consequences of the Covid-19 pandemic on social networks and loneliness, as well as gender status bias in video conferencing interactions. My research combines both quantitative and qualitative methods.
