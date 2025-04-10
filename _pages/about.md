@@ -8,7 +8,11 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info:
+  more_info: >
+    <p>Berlin Social Science Center</p>
+    <p>Reichpietschufer 50</p>
+    <p>D-10785 Berlin</p>
+
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
