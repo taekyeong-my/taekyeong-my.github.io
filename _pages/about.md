@@ -26,6 +26,7 @@ latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+  
 ---
 
 Hello there! I am a postdoctoral research fellow in the interdisciplinary research department Migration, Integration, Transnationalization at the Berlin Social Science Center (WZB). Before that, I was a PhD researcher at the European University Institute. I hold Master’s degrees from the London School of Economics (LSE) and Freie Universität Berlin.
